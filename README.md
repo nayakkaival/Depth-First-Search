@@ -1,4 +1,4 @@
-# Project1
+# Depth First Search
 Use DFS (Depth First Search) to solve the 3M3C problem.
 
 SITUATION
